@@ -1,1 +1,36 @@
-# DSA-C-
+# DSA C++
+
+This contains
+- DSA Mini Project of Client Server Communication
+- Dynamic Programming Problems
+  - Binary Knapsack
+  - Count Subset With Sum K
+  - Fibonacchi
+  - Frog Jump
+- Data Structure Algorithms
+  - Armstrong Number
+  -   Array to linked list
+  -   Balanced Paranthesis
+  -   Binary Search Tree
+  -   Exponential Search
+  -   Expression Tree
+  -   Graph Colouring using Backtracking
+  -   Infix to Postfix
+  -   Interpolation Search
+  -   Longest Common Subsequence (LCS)
+  -   Matric Chain Multiplication
+  -   N Queen problem
+  -   Quick Sort
+  -   Radix Sort
+  -   Recursive Min Max
+  -   Recursive Prime number
+  -   Ramanujan Number
+  -   Seeding
+  -   Sorting (Insertion, Bubble, Selection)
+  -   Merge Sorting (Recursive)
+  -   Merge Sorting (Iterative)
+  -   Strassens Multiplication
+  -   Sum of Subset
+  -   Floydd warshal
+  -   Djkstra algorithm
+  -   Min heap (array implementation)
